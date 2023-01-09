@@ -1,0 +1,4 @@
+Site,login,password
+Google,google_login,google_password
+Vkontakte,vk_login,vk_password
+Youtube,youtube_login,youtube_password
